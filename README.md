@@ -10,11 +10,10 @@
 
 ### 🧠 Interests
 * Full Stack Web Development
-* Backend Systems & APIs
 * Database Design & Optimization
 * IoT-based Smart Systems
 
-### 🛠️ What I'm Working On
+### 🛠️ Completed Projects
 * **CarbonTrack** — Carbon emission footprint tracking system using an IoT device  
   - Collects environmental data through sensors  
   - Processes and estimates carbon emissions  
@@ -25,13 +24,16 @@
 ### 🎯 Hobbies
 * 🎮 Exploring new technologies  
 * ⚙️ Exploring tech and hardware  
-* ⚙️ Working on personal tech projects  
+* ⚙️ Working on personal tech projects
 
-### 🌱 Currently Learning
-* Data Structures & Algorithms (DSA)  
-* Backend Development (Node.js, APIs)  
-* IoT integration with web systems  
-* Database design and optimization  
+### Completed Learning
+* Backend Development (Node.js, APIs)
+* IoT integration with web systems
+
+  
+### Currently Learning
+* Database design and optimization
+* Cybersecurity Fundamentals
 
 ---
 
